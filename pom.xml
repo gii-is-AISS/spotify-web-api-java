@@ -276,7 +276,11 @@
   </distributionManagement>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>    
+    <sonar.projectKey>gii-is-AISS_spotify-web-api-java</sonar.projectKey>
+    <sonar.organization>gii-is-aiss</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <SONAR_TOKEN>ab2d875928c2ae13c430247df45860ce1e1c0e05</SONAR_TOKEN>
   </properties>
 
 </project>
